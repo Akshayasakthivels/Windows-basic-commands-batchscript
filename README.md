@@ -25,7 +25,7 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ```
-NAME:AKSHAYA A
+NAME:AKSHAYA S
 REG.NO:212223220006
 ```
 ## Exercise 1: Basic Directory and File Operations
